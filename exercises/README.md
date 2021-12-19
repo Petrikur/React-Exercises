@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## React exercise to learn more about react. This is made to fetch random user data from randomuser api and show them as list on screen.
+
 
 ## Available Scripts
 
