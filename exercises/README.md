@@ -3,7 +3,7 @@
 ## Exercise
 React exercise to learn more about react. This is made to fetch random user data from randomuser api and show them as list on screen.
 
-https://github.com/Petrikur/React-Exercises/blob/master/exercises/src/images/image1.PNG
+#image 
 
 ![alt text](https://github.com/Petrikur/React-Exercises/blob/master/exercises/src/images/image1.PNG)
 ## Available Scripts
